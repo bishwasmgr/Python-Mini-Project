@@ -1,2 +1,2 @@
 # Python-Mini-Project
-This is a repo so all basic Python project. 
+This is a repo contain all basic Python project. 
